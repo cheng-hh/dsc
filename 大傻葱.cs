@@ -1,5 +1,4 @@
-﻿using UnityEngine;
-using System.Collections;
+﻿阿佳啊
 
 public class 视角移动 : MonoBehaviour {
 
